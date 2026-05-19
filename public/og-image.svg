@@ -1,0 +1,12 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#020617"/>
+  <circle cx="215" cy="155" r="250" fill="#0EA5E9" fill-opacity=".22"/>
+  <circle cx="955" cy="115" r="220" fill="#F59E0B" fill-opacity=".16"/>
+  <path d="M0 454C162 403 260 478 416 433C565 390 690 335 852 394C1006 450 1090 409 1200 366V630H0V454Z" fill="#0EA5E9" fill-opacity=".16"/>
+  <path d="M351 371H842C819 418 782 445 731 452H465C407 442 369 415 351 371Z" fill="black" fill-opacity=".52"/>
+  <path d="M596 132V365" stroke="white" stroke-opacity=".32" stroke-width="8"/>
+  <path d="M604 155L748 350H604V155Z" fill="white" fill-opacity=".15"/>
+  <text x="80" y="210" fill="white" font-family="Space Grotesk, Arial, sans-serif" font-size="78" font-weight="700">Siddhardha Ravi</text>
+  <text x="84" y="280" fill="#BAE6FD" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="600">AI-Integrated Data Engineer Portfolio</text>
+  <text x="84" y="344" fill="#F59E0B" font-family="JetBrains Mono, monospace" font-size="21" font-weight="700" letter-spacing="5">GRAND LINE DEVELOPER JOURNEY</text>
+</svg>
