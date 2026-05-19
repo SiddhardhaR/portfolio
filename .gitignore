@@ -1,0 +1,9 @@
+.DS_Store
+.next
+out
+node_modules
+dist
+*.log
+.env*
+*.tsbuildinfo
+portfolio-hero-qa.png
