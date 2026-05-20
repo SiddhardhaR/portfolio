@@ -26,7 +26,7 @@ export const profile = {
     "I design production-grade data systems, ML workflows, AI-augmented analytics, immersive research platforms, and interactive tools that turn complex signals into decisions. My work spans scalable data pipelines, MLOps, cloud analytics, LLM evaluation, BI automation, XR prototyping, and human-AI collaboration research.",
   mission:
     "My mission is to make data infrastructure feel dependable, explainable, and useful: pipelines that move cleanly, dashboards that tell the truth quickly, and AI systems that improve human judgment instead of hiding it.",
-  resumeFile: "/Siddhardha_Ravi_Resume.docx"
+  resumeFile: "Siddhardha_Ravi_Resume_Final.docx"
 };
 
 export const highlights = [
