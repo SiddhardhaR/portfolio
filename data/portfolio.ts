@@ -23,7 +23,7 @@ export const profile = {
   github: "https://github.com/",
   tagline: "Building intelligent data journeys across the Grand Line of technology.",
   summary:
-    "I design production-grade data systems, ML workflows, AI-augmented analytics, and interactive research platforms that turn complex signals into decisions. My work spans scalable data pipelines, MLOps, cloud analytics, LLM evaluation, BI automation, Salesforce engineering, and human-AI collaboration research.",
+    "I design production-grade data systems, ML workflows, AI-augmented analytics, immersive research platforms, and interactive tools that turn complex signals into decisions. My work spans scalable data pipelines, MLOps, cloud analytics, LLM evaluation, BI automation, XR prototyping, and human-AI collaboration research.",
   mission:
     "My mission is to make data infrastructure feel dependable, explainable, and useful: pipelines that move cleanly, dashboards that tell the truth quickly, and AI systems that improve human judgment instead of hiding it.",
   resumeFile: "/Siddhardha_Ravi_Resume.docx"
@@ -41,7 +41,7 @@ export const strengths = [
   "Batch and streaming data pipelines across AWS, Airflow, Kafka, dbt, and PySpark",
   "Interactive dashboards in Power BI, Tableau, QuickSight, Looker, and Recharts",
   "Research-grade experimentation with rigorous metrics, reproducibility, and cost control",
-  "Salesforce delivery with Apex, LWC, integrations, automation, and production migration"
+  "Immersive learning prototypes with Unity, C#, VR interaction design, and research support"
 ];
 
 export const experiences = [
@@ -106,18 +106,18 @@ export const experiences = [
     ]
   },
   {
-    company: "C360 Software",
-    island: "Salesforce Forge",
-    role: "Salesforce Developer",
-    period: "May 2022 - Jun 2023",
-    location: "Hyderabad, India",
-    impact: "6+ projects shipped",
-    color: "from-red-400 to-rose-500",
+    company: "Montclair State University - Hu-Au XR Lab",
+    island: "Immersive Learning Outpost",
+    role: "XR/VR Lab Volunteer",
+    period: "2025",
+    location: "Montclair, NJ",
+    impact: "Unity and C# VR research support",
+    color: "from-violet-300 to-cyan-500",
     bullets: [
-      "Delivered Salesforce projects in Agile sprints across Profiles, Roles, Permission Sets, custom objects, Apex triggers, batch jobs, and LWC.",
-      "Automated approval routing, field updates, and email generation, eliminating 10+ hours per week of manual work.",
-      "Designed dashboards and reports that improved visibility and reduced case resolution time by 22%.",
-      "Led sandbox-to-production migration steps and integrated Salesforce with ERP systems through REST APIs."
+      "Volunteered with the Hu-Au XR Lab, which studies human-computer interaction and immersive learning through VR, AR, and MR experiences.",
+      "Worked on Unity and C# development tasks for VR learning prototypes under the guidance of Dr. Elliot Hu-Au.",
+      "Supported interactive scene logic, prototype iteration, and research-driven exploration of immersive STEM learning experiences.",
+      "Connected software engineering practice with HCI, game development, and education-focused XR research."
     ]
   }
 ];
